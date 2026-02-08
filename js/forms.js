@@ -1,4 +1,4 @@
-const API_BASE = "https://impossible-janka-bmtxproceed-3dde79e2.koyeb.app/";
+const API_BASE = "https://impossible-janka-bmtxproceed-3dde79e2.koyeb.app";
 
 
 // Get submission ID from localStorage if it exists
